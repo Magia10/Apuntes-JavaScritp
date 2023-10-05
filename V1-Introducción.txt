@@ -1,0 +1,4 @@
+* Creador de JavaScript Brendan Eich en 1995
+* es diferente java y JavaScript
+* JavaScript esta basada en un estandar ECMASCRIPT
+* 1997  fue una version estable de JavaScript
