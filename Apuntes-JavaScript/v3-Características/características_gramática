@@ -1,0 +1,14 @@
+* Isomorfismo, es el único lenguaje capaz de ejecutarse en las 3 capas 
+* Es un lenguaje de alto nivel, no tenemos que estar gestionando la memoria.
+* Es interpretado y dinamico, no necesita una fase de compilación, se compila en
+  tiempo de ejecución.
+* Es débilmente tipado, la variable no se casa con un tipo de dato, no se
+  se tiene que declarar el tipo de dato.
+* Es multi paradigma, es decir podemos utilizar programacion estructurada, podemos
+* Es sensible a mayuscula y minusculas.
+* No necesitas los puntos y comas al final de cada linea
+* Ordamiento de código: 
+1. Importación de módulos.
+2. Declaración de variables.
+3. Declaración de funciones 
+4. Ejecución de códigos
